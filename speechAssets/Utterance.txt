@@ -1,0 +1,21 @@
+AboutAppIntent about
+ErrorCodeIntent about a {error_code} error
+ErrorCodeIntent for a {error_code} error
+ErrorCodeIntent what is a {error_code} error
+ErrorCodeIntent tell me what is a {error_code} error
+ErrorCodeIntent {error_code} error
+ErrorCodeIntent define a {error_code} error
+ErrorCodeIntent about a {error_code} status
+ErrorCodeIntent for a {error_code} status
+ErrorCodeIntent what is a {error_code} status
+ErrorCodeIntent tell me what is a {error_code} status
+ErrorCodeIntent {error_code} status
+ErrorCodeIntent define a {error_code} status
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me look up a code
+AMAZON.HelpIntent help me look up an error
+AMAZON.HelpIntent help me look up a status
+AMAZON.StopIntent stop
+AMAZON.StopIntent shut up
+AMAZON.CancelIntent cancel
+AMAZON.CancelIntent quiet

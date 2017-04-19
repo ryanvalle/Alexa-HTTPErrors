@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "AboutAppIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "error_code",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "ErrorCodeIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
